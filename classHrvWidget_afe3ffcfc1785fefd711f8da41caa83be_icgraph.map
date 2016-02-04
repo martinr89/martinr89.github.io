@@ -1,0 +1,5 @@
+<map id="HrvWidget::clearPlot" name="HrvWidget::clearPlot">
+<area shape="rect" id="node2" href="$classHrvWidget.html#a2a79df6a5d077284ad5f315c08c167ba" title="If a file is double&#45;clicked, load it in a different thread to prevent locking the GUI..." alt="" coords="196,5,356,32"/>
+<area shape="rect" id="node3" href="$classHrvWidget.html#a148558f91f60c7f5007a93a3c00e3525" title="widget function for setting up the " alt="" coords="404,31,572,57"/>
+<area shape="rect" id="node4" href="$classHrvWidget.html#adfd3a1b7a3c35e4380208cbe8d620c88" title="HrvWidget::HrvWidget" alt="" coords="620,31,775,57"/>
+</map>

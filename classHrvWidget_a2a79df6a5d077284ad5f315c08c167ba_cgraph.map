@@ -1,0 +1,11 @@
+<map id="HrvWidget::fileSelected" name="HrvWidget::fileSelected">
+<area shape="rect" id="node2" href="$classHrvWidget.html#afe3ffcfc1785fefd711f8da41caa83be" title="Clear the plot. " alt="" coords="224,5,367,32"/>
+<area shape="rect" id="node3" href="$classHrvWidget.html#af95e816ddef43fdff003f89bab291ec9" title="HrvWidget::fileFinished" alt="" coords="216,56,375,83"/>
+<area shape="rect" id="node4" href="$classHrvWidget.html#a3f15cabc6ed88ac568bfade7d85a13fa" title="If the file exists the function reads the information and calls the functions needed for all of the H..." alt="" coords="213,107,377,133"/>
+<area shape="rect" id="node5" href="$group__HRV-Analysis.html#ga2bd6c358a622e01babb7fdbca313c50f" title="Performs the Statistical Time Domain calculations for HRV Analysis. " alt="" coords="428,5,589,32"/>
+<area shape="rect" id="node7" href="$group__HRV-Analysis.html#ga3cfec29967efe1561722a05d03f26158" title="Performs calculations for Frequency Domain HRV Analysis. " alt="" coords="429,56,588,83"/>
+<area shape="rect" id="node8" href="$classHrvWidget.html#ada4d10d26fa1f7b73f9f697ee6372f0c" title="Constructs a Lomb&#45;Plot from the calculated data. " alt="" coords="441,107,577,133"/>
+<area shape="rect" id="node9" href="$classHrvWidget.html#aafcf48ca8f202ab4d4e16c1fcf687986" title="Prints the Time Domain Metrics. " alt="" coords="436,157,581,184"/>
+<area shape="rect" id="node10" href="$classHrvWidget.html#aefb3dcffa1db7dbecc9fe15f13140093" title="Function to save lomb.f and lomb.psd into a textfile. " alt="" coords="425,208,592,235"/>
+<area shape="rect" id="node6" href="$group__HRV-Analysis.html#ga97aad354e1ec35fab4e98f111f4ed4b4" title="Creates the emxArray_real_T needed for performTimeDomainHrv() The emxArray_real_T is the input vector..." alt="" coords="640,23,785,65"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="EcgStream::full" name="EcgStream::full">
+<area shape="rect" id="node2" href="$structEcgStream.html#a459ceb19c180cf43fabd7f6c6ea3c8cd" title="Returns state of streamVector. " alt="" coords="184,5,325,32"/>
+<area shape="rect" id="node3" href="$structEcgStream.html#aa96de6788d03db713fb5826983097fb3" title="EcgStream::transferValues" alt="" coords="165,56,344,83"/>
+<area shape="rect" id="node4" href="$structEcgStream.html#a4bcb39933b678ab15244e0861165fa6f" title="Return empty if streamVector is empty. " alt="" coords="189,107,320,133"/>
+<area shape="rect" id="node5" href="$structEcgStream.html#a2f57156351e79343d9c3444efe98f15a" title="adds the element to the end of streamVector " alt="" coords="197,157,313,184"/>
+</map>

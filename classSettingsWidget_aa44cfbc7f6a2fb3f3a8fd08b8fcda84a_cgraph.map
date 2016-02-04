@@ -1,0 +1,5 @@
+<map id="SettingsWidget::sampleRateChanged" name="SettingsWidget::sampleRateChanged">
+<area shape="rect" id="node2" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="284,5,416,47"/>
+<area shape="rect" id="node3" href="$classSettingsSingleton.html#adb9077243329cbf6b57bf592113bf6b4" title="SettingsSingleton::\lsetSampleRate" alt="" coords="284,71,416,112"/>
+<area shape="rect" id="node4" href="$classSettingsWidget.html#a97bcabb16aee6cafa44cb75c7601bb45" title="SettingsWidget::idToSampleRate" alt="" coords="243,137,457,163"/>
+</map>

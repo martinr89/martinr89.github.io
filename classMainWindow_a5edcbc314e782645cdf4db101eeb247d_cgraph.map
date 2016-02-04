@@ -1,0 +1,16 @@
+<map id="MainWindow::start" name="MainWindow::start">
+<area shape="rect" id="node2" href="$classModel.html#abe051fce6d408b995ec7f963244fdac6" title="Model::test" alt="" coords="184,373,271,399"/>
+<area shape="rect" id="node3" href="$saveastext_8cpp.html#a68ee19143e5514c49645bef7f359096a" title="saveAsText" alt="" coords="319,373,409,399"/>
+<area shape="rect" id="node4" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="462,5,594,47"/>
+<area shape="rect" id="node5" href="$classSettingsSingleton.html#aa5c7ee7b9966f8391d7431a7e8ab3949" title="SettingsSingleton::\lgetFileName" alt="" coords="462,71,594,112"/>
+<area shape="rect" id="node6" href="$classSettingsSingleton.html#a612c925c64e9862b0fdeca1b5f8f4773" title="SettingsSingleton::\lgetSource" alt="" coords="462,136,594,177"/>
+<area shape="rect" id="node7" href="$classSettingsSingleton.html#a0275cd8a138fa91222ad36d9fbf465d2" title="SettingsSingleton::\lgetRecordingName" alt="" coords="461,201,595,243"/>
+<area shape="rect" id="node8" href="$classSettingsSingleton.html#a01b74f6d99cfbbd5bc6114b69ee5c87c" title="SettingsSingleton::\lgetPatientCode" alt="" coords="462,267,594,308"/>
+<area shape="rect" id="node9" href="$classSettingsSingleton.html#ab9e0ab27c53f748e458cfb14f71a94ea" title="SettingsSingleton::\lgetName" alt="" coords="462,332,594,373"/>
+<area shape="rect" id="node10" href="$classSettingsSingleton.html#a3e61e7730d97ab3e893499538aba04ba" title="SettingsSingleton::\lgetGender" alt="" coords="462,397,594,439"/>
+<area shape="rect" id="node11" href="$classSettingsSingleton.html#a8e25762548883f476860ed5e1ab0b366" title="SettingsSingleton::\lgetBirthDate" alt="" coords="462,463,594,504"/>
+<area shape="rect" id="node12" href="$classSettingsSingleton.html#a14e8cddfa2bfbc896b9f31bddb4e675b" title="SettingsSingleton::\lgetNotes" alt="" coords="462,528,594,569"/>
+<area shape="rect" id="node13" href="$structEcgStream.html#ac9f2a29ef5baedba35ff739418320c44" title="returns size of the streamVector " alt="" coords="459,594,597,621"/>
+<area shape="rect" id="node14" href="$structEcgStream.html#a4bcb39933b678ab15244e0861165fa6f" title="Return empty if streamVector is empty. " alt="" coords="463,645,593,671"/>
+<area shape="rect" id="node15" href="$structEcgStream.html#a459ceb19c180cf43fabd7f6c6ea3c8cd" title="Returns state of streamVector. " alt="" coords="457,695,599,722"/>
+</map>

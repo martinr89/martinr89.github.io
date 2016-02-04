@@ -1,0 +1,8 @@
+<map id="SamplingThread::sample" name="SamplingThread::sample">
+<area shape="rect" id="node2" href="$group__Device-Facade.html#ga644ec3752de6ee1e818b5fcd1de5decd" title="Reads a single frame. " alt="" coords="220,107,381,133"/>
+<area shape="rect" id="node3" href="$group__Device-Facade.html#ga5daf6c2309471b0501a8af98bef9cb46" title="Enable chip select. " alt="" coords="469,5,623,32"/>
+<area shape="rect" id="node4" href="$group__Device-Facade.html#gafb67174763fd5579a1795ab1a2400974" title="Convert Ecg voltage. " alt="" coords="431,56,661,83"/>
+<area shape="rect" id="node5" href="$meanFilter_8cpp.html#a30d3375037ed32fa2ec845d42deebc3d" title="filterVal" alt="" coords="513,107,579,133"/>
+<area shape="rect" id="node6" href="$group__Device-Facade.html#ga60ba06d3e923bf7404f639408448793a" title="Convert ECG voltage. " alt="" coords="429,157,663,184"/>
+<area shape="rect" id="node7" href="$group__Device-Facade.html#ga9aff01f03534f6dcdd9f18154aad43b2" title="Disable chip select. " alt="" coords="467,208,625,235"/>
+</map>

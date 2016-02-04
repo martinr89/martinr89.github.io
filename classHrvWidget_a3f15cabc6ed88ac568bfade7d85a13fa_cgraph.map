@@ -1,0 +1,8 @@
+<map id="HrvWidget::performHRV" name="HrvWidget::performHRV">
+<area shape="rect" id="node2" href="$group__HRV-Analysis.html#ga2bd6c358a622e01babb7fdbca313c50f" title="Performs the Statistical Time Domain calculations for HRV Analysis. " alt="" coords="220,5,381,32"/>
+<area shape="rect" id="node4" href="$group__HRV-Analysis.html#ga3cfec29967efe1561722a05d03f26158" title="Performs calculations for Frequency Domain HRV Analysis. " alt="" coords="221,56,380,83"/>
+<area shape="rect" id="node5" href="$classHrvWidget.html#ada4d10d26fa1f7b73f9f697ee6372f0c" title="Constructs a Lomb&#45;Plot from the calculated data. " alt="" coords="233,107,369,133"/>
+<area shape="rect" id="node6" href="$classHrvWidget.html#aafcf48ca8f202ab4d4e16c1fcf687986" title="Prints the Time Domain Metrics. " alt="" coords="228,157,373,184"/>
+<area shape="rect" id="node7" href="$classHrvWidget.html#aefb3dcffa1db7dbecc9fe15f13140093" title="Function to save lomb.f and lomb.psd into a textfile. " alt="" coords="217,208,384,235"/>
+<area shape="rect" id="node3" href="$group__HRV-Analysis.html#ga97aad354e1ec35fab4e98f111f4ed4b4" title="Creates the emxArray_real_T needed for performTimeDomainHrv() The emxArray_real_T is the input vector..." alt="" coords="432,23,577,65"/>
+</map>

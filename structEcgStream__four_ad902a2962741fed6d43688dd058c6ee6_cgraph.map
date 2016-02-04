@@ -1,0 +1,7 @@
+<map id="EcgStream_four::getData" name="EcgStream_four::getData">
+<area shape="rect" id="node2" href="$structEcgStream__four.html#a776a4852083ab0b9fc102f817910cd07" title="Returns the element from position i. Doesn&#39;t delete the element. " alt="" coords="247,5,381,32"/>
+<area shape="rect" id="node3" href="$structEcgStream__four.html#adaccd5368658969e39ba5bd591b83ddf" title="Returns first element in streamVector, also deletes the element from streamVector. " alt="" coords="224,56,404,83"/>
+<area shape="rect" id="node4" href="$structEcgStream__four.html#a8c3269a6e4e5e72cc4d339a5d731bdf5" title="EcgStream_four::transfer\lValues" alt="" coords="230,107,398,149"/>
+<area shape="rect" id="node5" href="$structEcgStream__four.html#a8bf0d6f2b036956e21308085461e1c74" title="Return empty if streamVector is empty. " alt="" coords="234,173,394,200"/>
+<area shape="rect" id="node6" href="$structEcgStream__four.html#aa4d27ec6c2dfd83ba5eb13d26ee52fc5" title="adds the element to the end of streamVector " alt="" coords="241,224,387,251"/>
+</map>

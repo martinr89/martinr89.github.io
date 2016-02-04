@@ -1,0 +1,7 @@
+<map id="DataStream::add" name="DataStream::add">
+<area shape="rect" id="node2" href="$classEcgMock.html#aaa2628c0e8364980e6f252dfc3b86d1a" title="EcgMock::getData" alt="" coords="193,5,323,32"/>
+<area shape="rect" id="node3" href="$classEcgMock.html#a8822f99759fcfe9648262007cb380daa" title="EcgMock::run" alt="" coords="207,56,309,83"/>
+<area shape="rect" id="node4" href="$classSamplingThread.html#ac3b26dacbe5c927d8b51c84d9c00154d" title="Samples one frame from EcgCapture. " alt="" coords="175,107,341,133"/>
+<area shape="rect" id="node5" href="$classSamplingThread.html#a3145c2d8049b3f126f78cb1274154eeb" title="SamplingThread::run" alt="" coords="403,81,546,108"/>
+<area shape="rect" id="node6" href="$classSamplingThread.html#aa52f1e7171ae5cb8432e949635b02d25" title="Populates DataStream vector with values. " alt="" coords="389,132,560,159"/>
+</map>

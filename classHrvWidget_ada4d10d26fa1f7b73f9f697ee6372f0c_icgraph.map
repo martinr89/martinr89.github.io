@@ -1,0 +1,6 @@
+<map id="HrvWidget::psdPlot" name="HrvWidget::psdPlot">
+<area shape="rect" id="node2" href="$classHrvWidget.html#a3f15cabc6ed88ac568bfade7d85a13fa" title="If the file exists the function reads the information and calls the functions needed for all of the H..." alt="" coords="189,5,353,32"/>
+<area shape="rect" id="node3" href="$classHrvWidget.html#a2a79df6a5d077284ad5f315c08c167ba" title="If a file is double&#45;clicked, load it in a different thread to prevent locking the GUI..." alt="" coords="401,5,561,32"/>
+<area shape="rect" id="node4" href="$classHrvWidget.html#a148558f91f60c7f5007a93a3c00e3525" title="widget function for setting up the " alt="" coords="609,5,777,32"/>
+<area shape="rect" id="node5" href="$classHrvWidget.html#adfd3a1b7a3c35e4380208cbe8d620c88" title="HrvWidget::HrvWidget" alt="" coords="825,5,980,32"/>
+</map>

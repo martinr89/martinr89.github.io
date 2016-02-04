@@ -1,0 +1,11 @@
+<map id="EcgCapture::csDisable" name="EcgCapture::csDisable">
+<area shape="rect" id="node2" href="$group__Device-Facade.html#ga6064b37bb219c39a0a24abf20ba82ee4" title="Enable the ability to write to a register. " alt="" coords="211,41,397,82"/>
+<area shape="rect" id="node9" href="$group__Device-Facade.html#ga644ec3752de6ee1e818b5fcd1de5decd" title="Reads a single frame. " alt="" coords="223,107,385,133"/>
+<area shape="rect" id="node3" href="$group__Device-Facade.html#ga353f45ebca8b6483d450b42beea64310" title="Method to set a control register, returns true on success or false on failure. " alt="" coords="445,5,587,32"/>
+<area shape="rect" id="node8" href="$group__Device-Facade.html#ga9582047c81db34a3cab2bb315fcb1793" title="Start sending frames. " alt="" coords="635,56,760,83"/>
+<area shape="rect" id="node4" href="$group__Device-Facade.html#ga8f080b59e8caab0993bb7ee6b872b6a0" title="EcgCapture::init" alt="" coords="639,5,755,32"/>
+<area shape="rect" id="node5" href="$classSamplingThread.html#ab1284bf5429771100bf0a60ffe3aacef" title="SamplingThread::startThread" alt="" coords="808,56,999,83"/>
+<area shape="rect" id="node6" href="$classSamplingThread.html#a3145c2d8049b3f126f78cb1274154eeb" title="SamplingThread::run" alt="" coords="1061,56,1203,83"/>
+<area shape="rect" id="node7" href="$classSamplingThread.html#aa52f1e7171ae5cb8432e949635b02d25" title="Populates DataStream vector with values. " alt="" coords="1047,107,1217,133"/>
+<area shape="rect" id="node10" href="$classSamplingThread.html#ac3b26dacbe5c927d8b51c84d9c00154d" title="Samples one frame from EcgCapture. " alt="" coords="820,107,987,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SettingsWidget::setupComponents" name="SettingsWidget::setupComponents">
+<area shape="rect" id="node2" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="320,5,452,47"/>
+<area shape="rect" id="node3" href="$classSettingsSingleton.html#ad08916fd6909b6c1a0360cd57ec7348c" title="SettingsSingleton::\lsetSource" alt="" coords="320,71,452,112"/>
+<area shape="rect" id="node4" href="$classSettingsWidget.html#a44a0ea5fb59cc8dd1b9bdf2a117255cf" title="SettingsWidget::idToSource" alt="" coords="294,137,478,163"/>
+<area shape="rect" id="node5" href="$classSettingsSingleton.html#adb9077243329cbf6b57bf592113bf6b4" title="SettingsSingleton::\lsetSampleRate" alt="" coords="320,188,452,229"/>
+<area shape="rect" id="node6" href="$classSettingsWidget.html#a97bcabb16aee6cafa44cb75c7601bb45" title="SettingsWidget::idToSampleRate" alt="" coords="279,254,493,281"/>
+</map>

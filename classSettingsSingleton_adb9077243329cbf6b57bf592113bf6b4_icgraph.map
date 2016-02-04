@@ -1,0 +1,6 @@
+<map id="SettingsSingleton::setSampleRate" name="SettingsSingleton::setSampleRate">
+<area shape="rect" id="node2" href="$classSettingsWidget.html#aa44cfbc7f6a2fb3f3a8fd08b8fcda84a" title="Sample rate was changed, update the ini&#45;file accordingly. " alt="" coords="185,5,375,47"/>
+<area shape="rect" id="node5" href="$classSettingsWidget.html#a6b161244146f18e29e5a26cd101a67c0" title="Setup the necessary components that is used in the widget. " alt="" coords="423,67,648,94"/>
+<area shape="rect" id="node3" href="$classSettingsWidget.html#acd47237bdd1aad8ab1cfc27b67ffaa9b" title="Setup actions and the signal&#45;slots used in the widget. " alt="" coords="438,15,633,42"/>
+<area shape="rect" id="node4" href="$classSettingsWidget.html#a339891dcba7d2813bc5d894bff494a78" title="SettingsWidget::Settings\lWidget" alt="" coords="696,35,863,76"/>
+</map>

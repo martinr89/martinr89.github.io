@@ -1,0 +1,14 @@
+<map id="HrvWidget::setupActions" name="HrvWidget::setupActions">
+<area shape="rect" id="node2" href="$classHrvWidget.html#afe3ffcfc1785fefd711f8da41caa83be" title="Clear the plot. " alt="" coords="476,5,619,32"/>
+<area shape="rect" id="node3" href="$classHrvWidget.html#a2a79df6a5d077284ad5f315c08c167ba" title="If a file is double&#45;clicked, load it in a different thread to prevent locking the GUI..." alt="" coords="239,56,399,83"/>
+<area shape="rect" id="node12" href="$classHrvWidget.html#a3b11e75e78681024610206807f9327bb" title="Load the supported ECG formats from the application directory. " alt="" coords="232,107,407,133"/>
+<area shape="rect" id="node13" href="$classHrvWidget.html#afa974c435b40fda2d2409ae16beb8d7d" title="HrvWidget::deviceDiscovered" alt="" coords="221,157,417,184"/>
+<area shape="rect" id="node4" href="$classHrvWidget.html#af95e816ddef43fdff003f89bab291ec9" title="HrvWidget::fileFinished" alt="" coords="468,56,627,83"/>
+<area shape="rect" id="node5" href="$classHrvWidget.html#a3f15cabc6ed88ac568bfade7d85a13fa" title="If the file exists the function reads the information and calls the functions needed for all of the H..." alt="" coords="465,107,629,133"/>
+<area shape="rect" id="node6" href="$group__HRV-Analysis.html#ga2bd6c358a622e01babb7fdbca313c50f" title="Performs the Statistical Time Domain calculations for HRV Analysis. " alt="" coords="680,5,841,32"/>
+<area shape="rect" id="node8" href="$group__HRV-Analysis.html#ga3cfec29967efe1561722a05d03f26158" title="Performs calculations for Frequency Domain HRV Analysis. " alt="" coords="681,56,840,83"/>
+<area shape="rect" id="node9" href="$classHrvWidget.html#ada4d10d26fa1f7b73f9f697ee6372f0c" title="Constructs a Lomb&#45;Plot from the calculated data. " alt="" coords="693,107,829,133"/>
+<area shape="rect" id="node10" href="$classHrvWidget.html#aafcf48ca8f202ab4d4e16c1fcf687986" title="Prints the Time Domain Metrics. " alt="" coords="688,157,833,184"/>
+<area shape="rect" id="node11" href="$classHrvWidget.html#aefb3dcffa1db7dbecc9fe15f13140093" title="Function to save lomb.f and lomb.psd into a textfile. " alt="" coords="677,208,844,235"/>
+<area shape="rect" id="node7" href="$group__HRV-Analysis.html#ga97aad354e1ec35fab4e98f111f4ed4b4" title="Creates the emxArray_real_T needed for performTimeDomainHrv() The emxArray_real_T is the input vector..." alt="" coords="892,23,1037,65"/>
+</map>

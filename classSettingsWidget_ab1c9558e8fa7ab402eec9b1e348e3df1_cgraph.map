@@ -1,0 +1,11 @@
+<map id="SettingsWidget::applyCaptureSettings" name="SettingsWidget::applyCaptureSettings">
+<area shape="rect" id="node2" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="251,5,383,47"/>
+<area shape="rect" id="node3" href="$classSettingsSingleton.html#ab50b35c3b23984ebc0012614210dfcb0" title="SettingsSingleton::\lsetFileName" alt="" coords="251,71,383,112"/>
+<area shape="rect" id="node4" href="$classSettingsSingleton.html#ae66a38f762959722aeabb398f949816b" title="SettingsSingleton::\lsetName" alt="" coords="251,136,383,177"/>
+<area shape="rect" id="node5" href="$classSettingsSingleton.html#a43a03b34155bbbc5d3e43fc76d67de66" title="SettingsSingleton::\lsetRecordingName" alt="" coords="249,201,384,243"/>
+<area shape="rect" id="node6" href="$classSettingsSingleton.html#abded8c6369b79f5eb2fdd984a17e0485" title="SettingsSingleton::\lsetGender" alt="" coords="251,267,383,308"/>
+<area shape="rect" id="node7" href="$classSettingsSingleton.html#ade5f1111046a6bac5409aa1deb3d4ca9" title="SettingsSingleton::\lsetBirthDate" alt="" coords="251,332,383,373"/>
+<area shape="rect" id="node8" href="$classSettingsSingleton.html#a78588bed383af8565bc1d2d312bfd787" title="SettingsSingleton::\lsetPatientCode" alt="" coords="251,397,383,439"/>
+<area shape="rect" id="node9" href="$classSettingsSingleton.html#a3e84399356fd47ab1190108b0d32e7ba" title="SettingsSingleton::\lsetNotes" alt="" coords="251,463,383,504"/>
+<area shape="rect" id="node10" href="$classSettingsSingleton.html#a4e309e318784d1160d956e789b5be3f5" title="SettingsSingleton::\lsetSaveAsEdf" alt="" coords="251,528,383,569"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="EcgCapture::enableRegisterWrite" name="EcgCapture::enableRegisterWrite">
+<area shape="rect" id="node2" href="$group__Device-Facade.html#ga9aff01f03534f6dcdd9f18154aad43b2" title="Disable chip select. " alt="" coords="240,5,397,32"/>
+<area shape="rect" id="node3" href="$group__Device-Facade.html#ga5daf6c2309471b0501a8af98bef9cb46" title="Enable chip select. " alt="" coords="242,56,395,83"/>
+</map>

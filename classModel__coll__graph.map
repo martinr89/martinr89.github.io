@@ -1,0 +1,7 @@
+<map id="Model" name="Model">
+<area shape="rect" id="node2" href="$classDeviceManager.html" title="Handles which device to connect through the DeviceInterface. " alt="" coords="42,197,155,224"/>
+<area shape="rect" id="node4" href="$classDeviceInterface.html" title="Abstract interface for all devices. " alt="" coords="55,95,169,121"/>
+<area shape="rect" id="node5" href="$structDataStream.html" title="DataStream" alt="" coords="131,5,223,32"/>
+<area shape="rect" id="node6" href="$structEcgStream__four.html" title="DataStream used for storing of ECG&#45;Data. " alt="" coords="149,145,265,172"/>
+<area shape="rect" id="node7" href="$classDataLogger.html" title="The DataLogger class. " alt="" coords="278,197,367,224"/>
+</map>

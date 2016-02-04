@@ -1,0 +1,11 @@
+<map id="SliderWidget::setLabelValue" name="SliderWidget::setLabelValue">
+<area shape="rect" id="node2" href="$classSliderWidget.html#a22d7be7e513e8d74ec95fcc73d96fdf6" title="SliderWidget::SliderWidget" alt="" coords="239,43,417,69"/>
+<area shape="rect" id="node3" href="$classSliderWidget.html#ad69dd98151b2132011341f7ae7799480" title="SliderWidget::setValue" alt="" coords="251,93,405,120"/>
+<area shape="rect" id="node4" href="$classHrvWidget.html#aa8ff430296a0a228f1ffab495b22b4ac" title="If the window size of the plot is changed, go back to the start and update the plotted interval..." alt="" coords="465,5,680,32"/>
+<area shape="rect" id="node5" href="$classPlottingWidget.html#aa2711a5af277d1ecd223c0ee5ebad340" title="PlottingWidget::windowSize\lChanged" alt="" coords="480,57,665,98"/>
+<area shape="rect" id="node8" href="$classPlottingWidget.html#ace4b538fb9ff0e3ffb22aa2fb8dbb1b1" title="PlottingWidget::prev" alt="" coords="503,123,643,149"/>
+<area shape="rect" id="node10" href="$classPlottingWidget.html#a0275f2888bd2b08853a5d0cf06c93ad7" title="PlottingWidget::next" alt="" coords="503,173,643,200"/>
+<area shape="rect" id="node6" href="$classPlottingWidget.html#a936c10d03cf31e7bddd2e4bb9711ae8d" title="PlottingWidget::setupActions" alt="" coords="728,123,919,149"/>
+<area shape="rect" id="node7" href="$classPlottingWidget.html#a094b0449651206a5d5fbad95489d9a05" title="PlottingWidget::Plotting\lWidget" alt="" coords="967,115,1125,157"/>
+<area shape="rect" id="node9" href="$classPlottingWidget.html#abcb7d54e226df7067f821c954bb3589b" title="PlottingWidget::wheelEvent" alt="" coords="732,173,915,200"/>
+</map>

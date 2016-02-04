@@ -1,0 +1,5 @@
+<map id="SettingsSingleton::setRecordingName" name="SettingsSingleton::setRecordingName">
+<area shape="rect" id="node2" href="$classSettingsWidget.html#ab1c9558e8fa7ab402eec9b1e348e3df1" title="Apply the ECG capture settings when the apply&#45;button is pressed. " alt="" coords="188,5,384,47"/>
+<area shape="rect" id="node3" href="$classSettingsWidget.html#acd47237bdd1aad8ab1cfc27b67ffaa9b" title="Setup actions and the signal&#45;slots used in the widget. " alt="" coords="432,13,627,39"/>
+<area shape="rect" id="node4" href="$classSettingsWidget.html#a339891dcba7d2813bc5d894bff494a78" title="SettingsWidget::Settings\lWidget" alt="" coords="675,5,841,47"/>
+</map>

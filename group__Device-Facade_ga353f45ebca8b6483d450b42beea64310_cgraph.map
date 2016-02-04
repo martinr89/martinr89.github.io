@@ -1,0 +1,5 @@
+<map id="EcgCapture::setReg" name="EcgCapture::setReg">
+<area shape="rect" id="node2" href="$group__Device-Facade.html#ga6064b37bb219c39a0a24abf20ba82ee4" title="Enable the ability to write to a register. " alt="" coords="195,23,381,65"/>
+<area shape="rect" id="node3" href="$group__Device-Facade.html#ga9aff01f03534f6dcdd9f18154aad43b2" title="Disable chip select. " alt="" coords="429,5,587,32"/>
+<area shape="rect" id="node4" href="$group__Device-Facade.html#ga5daf6c2309471b0501a8af98bef9cb46" title="Enable chip select. " alt="" coords="431,56,585,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="EcgStream_four::getSize" name="EcgStream_four::getSize">
+<area shape="rect" id="node2" href="$classDataLogger.html#aedbd1ac33dd175ffd6dbc8a52d401f24" title="Saves input as a txt&#45;file and header&#45;file. " alt="" coords="221,13,388,40"/>
+<area shape="rect" id="node6" href="$classPlotAndCaptureWidget.html#a5f9fe948c3683ae9026a8f792782e67e" title="Stop the ECG capture, this will stop the sampling thread so no more samples will be collected..." alt="" coords="625,57,780,98"/>
+<area shape="rect" id="node9" href="$saveastext_8cpp.html#af22f1a521ef019910488d9fed1f5f1fe" title="saveAsText" alt="" coords="259,115,350,141"/>
+<area shape="rect" id="node10" href="$classModel.html#a16b32429d141f35402276f4841403100" title="Saves the information from a EcgStream object into two textfiles filename.txt and filename_header..." alt="" coords="237,165,372,192"/>
+<area shape="rect" id="node3" href="$classDataLogger.html#a22eaa969379f8c0c28c23634604a03a7" title="Saves the input to a txt&#45;file, header&#45;file and edf&#45;file(if bool saveAsEdf in SettingsSingleton) ..." alt="" coords="436,13,561,40"/>
+<area shape="rect" id="node4" href="$classEcgCaptureMenu.html#a610d2985e09cd56cb381e6e443dbbc72" title="newMenu " alt="" coords="609,5,796,32"/>
+<area shape="rect" id="node5" href="$classEcgCaptureMenu.html#ac779737a084cb49d1517974543d4965b" title="EcgCaptureMenu::~EcgCaptureMenu" alt="" coords="844,5,1084,32"/>
+<area shape="rect" id="node7" href="$classPlotAndCaptureWidget.html#aa1e35a3ed5eb806090604d4af11b018a" title="PlotAndCaptureWidget\l::setupActions" alt="" coords="887,57,1041,98"/>
+<area shape="rect" id="node8" href="$classPlotAndCaptureWidget.html#a12b93ad83cddd745f19c4745a9aa7af9" title="PlotAndCaptureWidget\l::PlotAndCaptureWidget" alt="" coords="1132,57,1295,98"/>
+</map>

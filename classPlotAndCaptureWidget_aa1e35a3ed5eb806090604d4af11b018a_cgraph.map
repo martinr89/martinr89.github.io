@@ -1,0 +1,29 @@
+<map id="PlotAndCaptureWidget::setupActions" name="PlotAndCaptureWidget::setupActions">
+<area shape="rect" id="node2" href="$classPlotAndCaptureWidget.html#a77ecf5a130215ce0246b8817e44081f7" title="Take a snapshot of the PLOT. " alt="" coords="208,233,363,275"/>
+<area shape="rect" id="node3" href="$classPlotAndCaptureWidget.html#a232d01f00a25365382f094ad8eedb7fa" title="PlotAndCaptureWidget\l::startCapture" alt="" coords="208,299,363,340"/>
+<area shape="rect" id="node10" href="$classPlotAndCaptureWidget.html#a5f9fe948c3683ae9026a8f792782e67e" title="Stop the ECG capture, this will stop the sampling thread so no more samples will be collected..." alt="" coords="208,364,363,405"/>
+<area shape="rect" id="node27" href="$classPlotAndCaptureWidget.html#a7dca31208a65906f0a96bf4143e0da4f" title="PlotAndCaptureWidget\l::plotSampleVector" alt="" coords="208,429,363,471"/>
+<area shape="rect" id="node28" href="$classPlotAndCaptureWidget.html#a769ecd243154ae9c4ecae9bd4fcbccdb" title="PlotAndCaptureWidget\l::updateStatus" alt="" coords="208,495,363,536"/>
+<area shape="rect" id="node4" href="$classDeviceManager.html#a280116304655de3a0bbfbf49730f9384" title="Prepares a new data&#45;collection,. " alt="" coords="438,141,577,167"/>
+<area shape="rect" id="node9" href="$classDeviceManager.html#a30358705658f1037ef6bb98e7a2d5e80" title="Starts the initiated device through a call to start() " alt="" coords="411,306,604,333"/>
+<area shape="rect" id="node5" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="931,5,1063,47"/>
+<area shape="rect" id="node6" href="$classSettingsSingleton.html#aa6db88481c421b96974519b8e28192c9" title="SettingsSingleton::\lgetSourceId" alt="" coords="689,75,821,116"/>
+<area shape="rect" id="node7" href="$classDeviceManager.html#aa7b96de52a17b961688e81f5e999da74" title="Slot used to transfer updateStatus from initiated device to the local signal. " alt="" coords="655,141,856,167"/>
+<area shape="rect" id="node8" href="$classDeviceManager.html#a14f86d572f6ea7222032ec00499a16a8" title="Slot used to transfer sendSampleVector from initiated device to the local signal. ..." alt="" coords="652,192,859,233"/>
+<area shape="rect" id="node11" href="$classDeviceManager.html#a8569742b2eb08d95052506e372b6bd31" title="Stops the running device. " alt="" coords="434,491,581,518"/>
+<area shape="rect" id="node13" href="$structEcgStream__four.html#a506e6b4a352a7c2735b2312f31068702" title="returns size of streamVector " alt="" coords="913,695,1081,722"/>
+<area shape="rect" id="node14" href="$classDataLogger.html#a22eaa969379f8c0c28c23634604a03a7" title="Saves the input to a txt&#45;file, header&#45;file and edf&#45;file(if bool saveAsEdf in SettingsSingleton) ..." alt="" coords="445,365,570,391"/>
+<area shape="rect" id="node12" href="$classDeviceInterface.html#a101b3b53a01add866737920e03a850a8" title="DeviceInterface::stop" alt="" coords="682,491,829,518"/>
+<area shape="rect" id="node15" href="$classDataLogger.html#aedbd1ac33dd175ffd6dbc8a52d401f24" title="Saves input as a txt&#45;file and header&#45;file. " alt="" coords="672,339,839,366"/>
+<area shape="rect" id="node26" href="$classDataLogger.html#a0a9da8f0d469289420c11e5769bb5b16" title="Saves input as a edf&#45;file. " alt="" coords="675,390,836,417"/>
+<area shape="rect" id="node16" href="$classSettingsSingleton.html#aa5c7ee7b9966f8391d7431a7e8ab3949" title="SettingsSingleton::\lgetFileName" alt="" coords="931,71,1063,112"/>
+<area shape="rect" id="node17" href="$classSettingsSingleton.html#a612c925c64e9862b0fdeca1b5f8f4773" title="SettingsSingleton::\lgetSource" alt="" coords="931,136,1063,177"/>
+<area shape="rect" id="node18" href="$classSettingsSingleton.html#a0275cd8a138fa91222ad36d9fbf465d2" title="SettingsSingleton::\lgetRecordingName" alt="" coords="929,201,1064,243"/>
+<area shape="rect" id="node19" href="$classSettingsSingleton.html#a01b74f6d99cfbbd5bc6114b69ee5c87c" title="SettingsSingleton::\lgetPatientCode" alt="" coords="931,267,1063,308"/>
+<area shape="rect" id="node20" href="$classSettingsSingleton.html#ab9e0ab27c53f748e458cfb14f71a94ea" title="SettingsSingleton::\lgetName" alt="" coords="931,332,1063,373"/>
+<area shape="rect" id="node21" href="$classSettingsSingleton.html#a3e61e7730d97ab3e893499538aba04ba" title="SettingsSingleton::\lgetGender" alt="" coords="931,397,1063,439"/>
+<area shape="rect" id="node22" href="$classSettingsSingleton.html#a8e25762548883f476860ed5e1ab0b366" title="SettingsSingleton::\lgetBirthDate" alt="" coords="931,463,1063,504"/>
+<area shape="rect" id="node23" href="$classSettingsSingleton.html#a14e8cddfa2bfbc896b9f31bddb4e675b" title="SettingsSingleton::\lgetNotes" alt="" coords="931,528,1063,569"/>
+<area shape="rect" id="node24" href="$structEcgStream__four.html#a8bf0d6f2b036956e21308085461e1c74" title="Return empty if streamVector is empty. " alt="" coords="917,594,1077,621"/>
+<area shape="rect" id="node25" href="$structEcgStream__four.html#adaccd5368658969e39ba5bd591b83ddf" title="Returns first element in streamVector, also deletes the element from streamVector. " alt="" coords="907,645,1087,671"/>
+</map>

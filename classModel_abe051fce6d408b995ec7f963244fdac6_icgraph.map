@@ -1,0 +1,7 @@
+<map id="Model::test" name="Model::test">
+<area shape="rect" id="node2" href="$classMainWindow.html#a5edcbc314e782645cdf4db101eeb247d" title="MainWindow::start" alt="" coords="168,5,299,32"/>
+<area shape="rect" id="node5" href="$classEcgCaptureMenu.html#a610d2985e09cd56cb381e6e443dbbc72" title="newMenu " alt="" coords="140,56,327,83"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a2334d55084925506d781b8c2c5fed463" title="MainWindow::setupActions" alt="" coords="404,5,585,32"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a25e1fb1c2c42a5b961db39ae08ff6443" title="MainWindow::MainWindow" alt="" coords="663,5,843,32"/>
+<area shape="rect" id="node6" href="$classEcgCaptureMenu.html#ac779737a084cb49d1517974543d4965b" title="EcgCaptureMenu::~EcgCaptureMenu" alt="" coords="375,56,615,83"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SettingsWidget::setupActions" name="SettingsWidget::setupActions">
+<area shape="rect" id="node2" href="$classSettingsWidget.html#af72231c6b17c54b9f0324bd748dde41e" title="Source changed, update ini&#45;file accordingly. " alt="" coords="248,130,459,157"/>
+<area shape="rect" id="node7" href="$classSettingsWidget.html#aa44cfbc7f6a2fb3f3a8fd08b8fcda84a" title="Sample rate was changed, update the ini&#45;file accordingly. " alt="" coords="259,253,448,295"/>
+<area shape="rect" id="node10" href="$classSettingsWidget.html#ab1c9558e8fa7ab402eec9b1e348e3df1" title="Apply the ECG capture settings when the apply&#45;button is pressed. " alt="" coords="255,533,451,575"/>
+<area shape="rect" id="node3" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="548,188,680,229"/>
+<area shape="rect" id="node4" href="$classSettingsSingleton.html#ad08916fd6909b6c1a0360cd57ec7348c" title="SettingsSingleton::\lsetSource" alt="" coords="548,5,680,47"/>
+<area shape="rect" id="node5" href="$classSettingsWidget.html#a44a0ea5fb59cc8dd1b9bdf2a117255cf" title="SettingsWidget::idToSource" alt="" coords="522,71,706,98"/>
+<area shape="rect" id="node6" href="$classSettingsSingleton.html#a51e10443c165263a62f48d6bc426409d" title="SettingsSingleton::\lsetSourceId" alt="" coords="548,123,680,164"/>
+<area shape="rect" id="node8" href="$classSettingsSingleton.html#adb9077243329cbf6b57bf592113bf6b4" title="SettingsSingleton::\lsetSampleRate" alt="" coords="548,253,680,295"/>
+<area shape="rect" id="node9" href="$classSettingsWidget.html#a97bcabb16aee6cafa44cb75c7601bb45" title="SettingsWidget::idToSampleRate" alt="" coords="507,319,721,346"/>
+<area shape="rect" id="node11" href="$classSettingsSingleton.html#ab50b35c3b23984ebc0012614210dfcb0" title="SettingsSingleton::\lsetFileName" alt="" coords="548,501,680,543"/>
+<area shape="rect" id="node12" href="$classSettingsSingleton.html#ae66a38f762959722aeabb398f949816b" title="SettingsSingleton::\lsetName" alt="" coords="548,567,680,608"/>
+<area shape="rect" id="node13" href="$classSettingsSingleton.html#a43a03b34155bbbc5d3e43fc76d67de66" title="SettingsSingleton::\lsetRecordingName" alt="" coords="547,632,681,673"/>
+<area shape="rect" id="node14" href="$classSettingsSingleton.html#abded8c6369b79f5eb2fdd984a17e0485" title="SettingsSingleton::\lsetGender" alt="" coords="548,697,680,739"/>
+<area shape="rect" id="node15" href="$classSettingsSingleton.html#ade5f1111046a6bac5409aa1deb3d4ca9" title="SettingsSingleton::\lsetBirthDate" alt="" coords="548,763,680,804"/>
+<area shape="rect" id="node16" href="$classSettingsSingleton.html#a78588bed383af8565bc1d2d312bfd787" title="SettingsSingleton::\lsetPatientCode" alt="" coords="548,828,680,869"/>
+<area shape="rect" id="node17" href="$classSettingsSingleton.html#a3e84399356fd47ab1190108b0d32e7ba" title="SettingsSingleton::\lsetNotes" alt="" coords="548,371,680,412"/>
+<area shape="rect" id="node18" href="$classSettingsSingleton.html#a4e309e318784d1160d956e789b5be3f5" title="SettingsSingleton::\lsetSaveAsEdf" alt="" coords="548,436,680,477"/>
+</map>

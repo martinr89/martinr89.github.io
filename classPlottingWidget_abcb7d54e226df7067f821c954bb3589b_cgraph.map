@@ -1,0 +1,7 @@
+<map id="PlottingWidget::wheelEvent" name="PlottingWidget::wheelEvent">
+<area shape="rect" id="node2" href="$classPlottingWidget.html#a0275f2888bd2b08853a5d0cf06c93ad7" title="PlottingWidget::next" alt="" coords="236,5,376,32"/>
+<area shape="rect" id="node6" href="$classPlottingWidget.html#ace4b538fb9ff0e3ffb22aa2fb8dbb1b1" title="PlottingWidget::prev" alt="" coords="236,56,376,83"/>
+<area shape="rect" id="node3" href="$classSliderWidget.html#a05ed61d5bb79a82da1f51f73b5e2466a" title="SliderWidget::value" alt="" coords="434,5,569,32"/>
+<area shape="rect" id="node4" href="$classSliderWidget.html#ad69dd98151b2132011341f7ae7799480" title="SliderWidget::setValue" alt="" coords="424,56,579,83"/>
+<area shape="rect" id="node5" href="$classSliderWidget.html#ae6bffbb6be920eef8e9ba5a52e9599f9" title="SliderWidget::setLabelValue" alt="" coords="627,56,812,83"/>
+</map>

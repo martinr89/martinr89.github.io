@@ -1,0 +1,14 @@
+<map id="DataLogger::saveAsText" name="DataLogger::saveAsText">
+<area shape="rect" id="node2" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="244,5,376,47"/>
+<area shape="rect" id="node3" href="$classSettingsSingleton.html#aa5c7ee7b9966f8391d7431a7e8ab3949" title="SettingsSingleton::\lgetFileName" alt="" coords="244,71,376,112"/>
+<area shape="rect" id="node4" href="$classSettingsSingleton.html#a612c925c64e9862b0fdeca1b5f8f4773" title="SettingsSingleton::\lgetSource" alt="" coords="244,136,376,177"/>
+<area shape="rect" id="node5" href="$classSettingsSingleton.html#a0275cd8a138fa91222ad36d9fbf465d2" title="SettingsSingleton::\lgetRecordingName" alt="" coords="243,201,377,243"/>
+<area shape="rect" id="node6" href="$classSettingsSingleton.html#a01b74f6d99cfbbd5bc6114b69ee5c87c" title="SettingsSingleton::\lgetPatientCode" alt="" coords="244,267,376,308"/>
+<area shape="rect" id="node7" href="$classSettingsSingleton.html#ab9e0ab27c53f748e458cfb14f71a94ea" title="SettingsSingleton::\lgetName" alt="" coords="244,332,376,373"/>
+<area shape="rect" id="node8" href="$classSettingsSingleton.html#a3e61e7730d97ab3e893499538aba04ba" title="SettingsSingleton::\lgetGender" alt="" coords="244,397,376,439"/>
+<area shape="rect" id="node9" href="$classSettingsSingleton.html#a8e25762548883f476860ed5e1ab0b366" title="SettingsSingleton::\lgetBirthDate" alt="" coords="244,463,376,504"/>
+<area shape="rect" id="node10" href="$classSettingsSingleton.html#a14e8cddfa2bfbc896b9f31bddb4e675b" title="SettingsSingleton::\lgetNotes" alt="" coords="244,528,376,569"/>
+<area shape="rect" id="node11" href="$structEcgStream__four.html#a506e6b4a352a7c2735b2312f31068702" title="returns size of streamVector " alt="" coords="226,594,394,621"/>
+<area shape="rect" id="node12" href="$structEcgStream__four.html#a8bf0d6f2b036956e21308085461e1c74" title="Return empty if streamVector is empty. " alt="" coords="230,645,390,671"/>
+<area shape="rect" id="node13" href="$structEcgStream__four.html#adaccd5368658969e39ba5bd591b83ddf" title="Returns first element in streamVector, also deletes the element from streamVector. " alt="" coords="220,695,400,722"/>
+</map>

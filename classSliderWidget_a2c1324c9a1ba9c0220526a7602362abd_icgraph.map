@@ -1,0 +1,9 @@
+<map id="SliderWidget::updateRange" name="SliderWidget::updateRange">
+<area shape="rect" id="node2" href="$classSliderWidget.html#aeb088af9a4577c8ca1e64a06bd74eaa1" title="SliderWidget::setInterval" alt="" coords="235,56,400,83"/>
+<area shape="rect" id="node3" href="$classHrvWidget.html#aa8ff430296a0a228f1ffab495b22b4ac" title="If the window size of the plot is changed, go back to the start and update the plotted interval..." alt="" coords="448,5,663,32"/>
+<area shape="rect" id="node4" href="$classPlottingWidget.html#aa2711a5af277d1ecd223c0ee5ebad340" title="PlottingWidget::windowSize\lChanged" alt="" coords="711,46,896,87"/>
+<area shape="rect" id="node7" href="$classPlottingWidget.html#ab195d956b16e4232c4337fee73d2358b" title="PlottingWidget::initEcg" alt="" coords="478,108,633,135"/>
+<area shape="rect" id="node5" href="$classPlottingWidget.html#a936c10d03cf31e7bddd2e4bb9711ae8d" title="PlottingWidget::setupActions" alt="" coords="944,83,1135,109"/>
+<area shape="rect" id="node6" href="$classPlottingWidget.html#a094b0449651206a5d5fbad95489d9a05" title="PlottingWidget::Plotting\lWidget" alt="" coords="1183,75,1341,117"/>
+<area shape="rect" id="node8" href="$classPlottingWidget.html#a149cf8130f0cf645e9dea8ff997c8515" title="PlottingWidget::fileSelected" alt="" coords="712,112,895,139"/>
+</map>

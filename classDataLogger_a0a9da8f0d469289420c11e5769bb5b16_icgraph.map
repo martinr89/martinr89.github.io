@@ -1,0 +1,8 @@
+<map id="DataLogger::saveAsEdf" name="DataLogger::saveAsEdf">
+<area shape="rect" id="node2" href="$classDataLogger.html#a22eaa969379f8c0c28c23634604a03a7" title="Saves the input to a txt&#45;file, header&#45;file and edf&#45;file(if bool saveAsEdf in SettingsSingleton) ..." alt="" coords="215,35,340,61"/>
+<area shape="rect" id="node3" href="$classEcgCaptureMenu.html#a610d2985e09cd56cb381e6e443dbbc72" title="newMenu " alt="" coords="388,5,575,32"/>
+<area shape="rect" id="node5" href="$classPlotAndCaptureWidget.html#a5f9fe948c3683ae9026a8f792782e67e" title="Stop the ECG capture, this will stop the sampling thread so no more samples will be collected..." alt="" coords="404,57,559,98"/>
+<area shape="rect" id="node4" href="$classEcgCaptureMenu.html#ac779737a084cb49d1517974543d4965b" title="EcgCaptureMenu::~EcgCaptureMenu" alt="" coords="623,5,863,32"/>
+<area shape="rect" id="node6" href="$classPlotAndCaptureWidget.html#aa1e35a3ed5eb806090604d4af11b018a" title="PlotAndCaptureWidget\l::setupActions" alt="" coords="665,57,820,98"/>
+<area shape="rect" id="node7" href="$classPlotAndCaptureWidget.html#a12b93ad83cddd745f19c4745a9aa7af9" title="PlotAndCaptureWidget\l::PlotAndCaptureWidget" alt="" coords="911,57,1073,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="node2" href="$classMainWindow.html#af003926c12e63841c870e5a537e9f29a" title="MainWindow::setupComponents" alt="" coords="233,5,444,32"/>
+<area shape="rect" id="node3" href="$classMainWindow.html#a2334d55084925506d781b8c2c5fed463" title="MainWindow::setupActions" alt="" coords="248,56,429,83"/>
+<area shape="rect" id="node6" href="$classMainWindow.html#aebb308d8af9b0dff388ca00394a1a945" title="MainWindow::setupLayout" alt="" coords="251,107,427,133"/>
+<area shape="rect" id="node4" href="$classMainWindow.html#a542a7527ced73b2c9bc14f8dc9661a66" title="MainWindow::quit" alt="" coords="527,31,653,57"/>
+<area shape="rect" id="node5" href="$classMainWindow.html#a1b2b3d11cb3ca56d4e2094ea6464a4fa" title="MainWindow::takeScreenshot" alt="" coords="492,81,688,108"/>
+</map>

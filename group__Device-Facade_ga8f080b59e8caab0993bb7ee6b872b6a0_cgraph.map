@@ -1,0 +1,7 @@
+<map id="EcgCapture::init" name="EcgCapture::init">
+<area shape="rect" id="node2" href="$group__Device-Facade.html#ga2ebde7a212d48c360b7356265531af28" title="Start the SPI communication. " alt="" coords="173,5,307,32"/>
+<area shape="rect" id="node3" href="$group__Device-Facade.html#ga353f45ebca8b6483d450b42beea64310" title="Method to set a control register, returns true on success or false on failure. " alt="" coords="169,56,311,83"/>
+<area shape="rect" id="node4" href="$group__Device-Facade.html#ga6064b37bb219c39a0a24abf20ba82ee4" title="Enable the ability to write to a register. " alt="" coords="359,49,545,90"/>
+<area shape="rect" id="node5" href="$group__Device-Facade.html#ga9aff01f03534f6dcdd9f18154aad43b2" title="Disable chip select. " alt="" coords="593,31,751,57"/>
+<area shape="rect" id="node6" href="$group__Device-Facade.html#ga5daf6c2309471b0501a8af98bef9cb46" title="Enable chip select. " alt="" coords="595,81,749,108"/>
+</map>

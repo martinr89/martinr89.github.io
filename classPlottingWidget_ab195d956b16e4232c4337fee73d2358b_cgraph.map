@@ -1,0 +1,5 @@
+<map id="PlottingWidget::initEcg" name="PlottingWidget::initEcg">
+<area shape="rect" id="node2" href="$classSliderWidget.html#aeb088af9a4577c8ca1e64a06bd74eaa1" title="SliderWidget::setInterval" alt="" coords="212,5,377,32"/>
+<area shape="rect" id="node4" href="$classPlottingWidget.html#a3c7290b47066f22a0c8e22bb7f4bb9ce" title="PlottingWidget::plotVector" alt="" coords="208,56,381,83"/>
+<area shape="rect" id="node3" href="$classSliderWidget.html#a2c1324c9a1ba9c0220526a7602362abd" title="SliderWidget::updateRange" alt="" coords="429,5,611,32"/>
+</map>

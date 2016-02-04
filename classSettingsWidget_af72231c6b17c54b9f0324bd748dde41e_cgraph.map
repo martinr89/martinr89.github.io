@@ -1,0 +1,6 @@
+<map id="SettingsWidget::sourceChanged" name="SettingsWidget::sourceChanged">
+<area shape="rect" id="node2" href="$classSettingsSingleton.html#aad528becd7ce5903c418a5b8b718074c" title="SettingsSingleton::\linstance" alt="" coords="290,5,422,47"/>
+<area shape="rect" id="node3" href="$classSettingsSingleton.html#ad08916fd6909b6c1a0360cd57ec7348c" title="SettingsSingleton::\lsetSource" alt="" coords="290,71,422,112"/>
+<area shape="rect" id="node4" href="$classSettingsWidget.html#a44a0ea5fb59cc8dd1b9bdf2a117255cf" title="SettingsWidget::idToSource" alt="" coords="264,137,448,163"/>
+<area shape="rect" id="node5" href="$classSettingsSingleton.html#a51e10443c165263a62f48d6bc426409d" title="SettingsSingleton::\lsetSourceId" alt="" coords="290,188,422,229"/>
+</map>

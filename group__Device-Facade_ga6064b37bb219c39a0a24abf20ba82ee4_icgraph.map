@@ -1,0 +1,8 @@
+<map id="EcgCapture::enableRegisterWrite" name="EcgCapture::enableRegisterWrite">
+<area shape="rect" id="node2" href="$group__Device-Facade.html#ga353f45ebca8b6483d450b42beea64310" title="Method to set a control register, returns true on success or false on failure. " alt="" coords="240,5,381,32"/>
+<area shape="rect" id="node7" href="$group__Device-Facade.html#ga9582047c81db34a3cab2bb315fcb1793" title="Start sending frames. " alt="" coords="429,56,555,83"/>
+<area shape="rect" id="node3" href="$group__Device-Facade.html#ga8f080b59e8caab0993bb7ee6b872b6a0" title="EcgCapture::init" alt="" coords="434,5,550,32"/>
+<area shape="rect" id="node4" href="$classSamplingThread.html#ab1284bf5429771100bf0a60ffe3aacef" title="SamplingThread::startThread" alt="" coords="603,31,793,57"/>
+<area shape="rect" id="node5" href="$classSamplingThread.html#a3145c2d8049b3f126f78cb1274154eeb" title="SamplingThread::run" alt="" coords="855,5,998,32"/>
+<area shape="rect" id="node6" href="$classSamplingThread.html#aa52f1e7171ae5cb8432e949635b02d25" title="Populates DataStream vector with values. " alt="" coords="841,56,1012,83"/>
+</map>

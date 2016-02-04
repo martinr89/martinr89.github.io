@@ -1,0 +1,6 @@
+<map id="PlottingWidget::fileSelected" name="PlottingWidget::fileSelected">
+<area shape="rect" id="node2" href="$classPlottingWidget.html#ab195d956b16e4232c4337fee73d2358b" title="PlottingWidget::initEcg" alt="" coords="236,31,391,57"/>
+<area shape="rect" id="node3" href="$classSliderWidget.html#aeb088af9a4577c8ca1e64a06bd74eaa1" title="SliderWidget::setInterval" alt="" coords="443,5,608,32"/>
+<area shape="rect" id="node5" href="$classPlottingWidget.html#a3c7290b47066f22a0c8e22bb7f4bb9ce" title="PlottingWidget::plotVector" alt="" coords="439,56,612,83"/>
+<area shape="rect" id="node4" href="$classSliderWidget.html#a2c1324c9a1ba9c0220526a7602362abd" title="SliderWidget::updateRange" alt="" coords="660,5,841,32"/>
+</map>

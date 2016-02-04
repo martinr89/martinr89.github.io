@@ -1,0 +1,12 @@
+<map id="RemoteSelector::RemoteSelector" name="RemoteSelector::RemoteSelector">
+<area shape="rect" id="node2" href="$classRemoteSelector.html#a655b7bd7f98cb2b3718fe447f1dff1fa" title="RemoteSelector::serviceDiscovered" alt="" coords="275,5,507,32"/>
+<area shape="rect" id="node3" href="$classRemoteSelector.html#ad7cbe4febd0f1ca27f4c292d49c11914" title="RemoteSelector::discovery\lFinished" alt="" coords="301,57,481,98"/>
+<area shape="rect" id="node4" href="$classRemoteSelector.html#ae4447d8327a2cddcefb89feb13c0d8bd" title="RemoteSelector::displayPin" alt="" coords="299,123,483,149"/>
+<area shape="rect" id="node6" href="$classRemoteSelector.html#ae80c684b67e98ee935ed1a5a96e1e17b" title="RemoteSelector::displayConfirmation" alt="" coords="272,173,511,200"/>
+<area shape="rect" id="node9" href="$classRemoteSelector.html#ae936a3a8c7f1c89be866d076f74937d4" title="RemoteSelector::pairingFinished" alt="" coords="563,275,773,301"/>
+<area shape="rect" id="node11" href="$classRemoteSelector.html#a4963243c3e37c42e1e94f7edf6ba26a9" title="RemoteSelector::pairingError" alt="" coords="296,275,487,301"/>
+<area shape="rect" id="node5" href="$classRemoteSelector.html#a90adce673465cab4d948c1111d82770d" title="RemoteSelector::addressToName" alt="" coords="559,92,777,119"/>
+<area shape="rect" id="node7" href="$classRemoteSelector.html#ac63cf51158644366d38ae8def564beff" title="RemoteSelector::displayConf\lAccepted" alt="" coords="571,143,765,185"/>
+<area shape="rect" id="node8" href="$classRemoteSelector.html#a1030dabe301ae45109a1791cb18015ed" title="RemoteSelector::displayConf\lReject" alt="" coords="571,209,765,250"/>
+<area shape="rect" id="node10" href="$classRemoteSelector.html#ada5543d127d62eb91591d4d11294b8b2" title="RemoteSelector::service" alt="" coords="825,275,992,301"/>
+</map>

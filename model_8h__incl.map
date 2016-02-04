@@ -1,0 +1,11 @@
+<map id="BioPi&#45;New/model.h" name="BioPi&#45;New/model.h">
+<area shape="rect" id="node2" href="$devicemanager_8h.html" title="devicemanager.h" alt="" coords="511,80,631,107"/>
+<area shape="rect" id="node16" href="$ecgstream__fourchannels_8h.html" title="ecgstream_fourchannels.h" alt="" coords="843,229,1018,256"/>
+<area shape="rect" id="node18" href="$settingssingleton_8h.html" title="settingssingleton.h" alt="" coords="684,80,815,107"/>
+<area shape="rect" id="node19" href="$datalogger_8h.html" title="datalogger.h" alt="" coords="801,155,893,181"/>
+<area shape="rect" id="node3" href="$datastream_8h.html" title="datastream.h" alt="" coords="793,304,892,331"/>
+<area shape="rect" id="node5" href="$deviceinterface_8h.html" title="deviceinterface.h" alt="" coords="494,229,615,256"/>
+<area shape="rect" id="node11" href="$ecgmock_8h.html" title="ecgmock.h" alt="" coords="579,155,666,181"/>
+<area shape="rect" id="node12" href="$samplingthread_8h.html" title="samplingthread.h" alt="" coords="294,155,415,181"/>
+<area shape="rect" id="node17" href="$ecgstruct4_8h.html" title="ecgstruct4.h" alt="" coords="967,304,1062,331"/>
+</map>
